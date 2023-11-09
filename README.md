@@ -1,2 +1,0 @@
-# CodSoft-Java Developement
-Tasks
